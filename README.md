@@ -28,6 +28,6 @@ Examine mean values of each cluster to draw business insights.
 
 ---
 
-## 📬 Author
+## 👤 Author
 Shaik Shabnam
 Internship at SkillCraft Technology
